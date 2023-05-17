@@ -7,5 +7,5 @@ The NodeMCU interfaces with all of the sensors used in this project.
 The Arduino IDE is used to compile and upload the programme to the NodeMCU, and the 
 Blynk IoT platform is used to display temperature, humidity, and soil moisture from a distance.
 
-When the soil moisture is very less then we can turn motor ON and pump the water to the plant after that soil 
-moisture increases and then turn motor OFF from the smartphone.
+When the soil moisture is very less then we can turn motor ON via smartphone and when the soil 
+moisture increases then turn motor OFF from the smartphone only, ie, no need to be physically present to trun motor ON & OFF.
